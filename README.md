@@ -1,5 +1,5 @@
 <div>
-  Hi !My name is Daniel Freitas Ferreira
+  <h1>Hi !My name is Daniel Freitas Ferreira</h1>
 ===============================================================================================================================================
 
 Student of Bachelor of Science (Honours) in Computing and IT at CCT College Dublin
